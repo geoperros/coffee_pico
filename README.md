@@ -2,7 +2,7 @@
 
 This is an simple project to help me modernise my espresso machine in order to brew shots and stop in a set time.
 
-![](https://github.com/geoperros/coffee_pico/assets/FrontOnMachine.jpg)
+![](https://github.com/geoperros/coffee_pico/blob/main/assets/FrontOnMachine.jpg)
 
 The espresso machine is a san marco practical 85 with a switch operating the brewing.
 The switching is done with a double relay which is connected in parallel to the manual switch, operated by a raspberry pi pico.
